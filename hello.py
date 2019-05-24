@@ -1,3 +1,3 @@
 print("Hello, What is your name ? ")
 Enter_name = str(input())
-print(Enter_name)
+print("Good to know you {}".format(Enter_name))
